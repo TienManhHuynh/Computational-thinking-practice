@@ -1,0 +1,7 @@
+Danh sách thành viên nhóm - Dự án quản lý sinh viên
+
+1. Trần Phước Minh Khang MSSV: 24122036 (Scrum Leader)
+2. Huỳnh Tiến Mạnh 	 MSSV: 24122042 (Project Owner)
+3. Dương Thiên Phú	 MSSV: 24122047 (Developer)
+4. Nguyễn Việt Khoa 	 MSSV: 24122037 (Developer)
+5. Hà Huy Nguyên 	 MSSV: 24122044 (Developer)
