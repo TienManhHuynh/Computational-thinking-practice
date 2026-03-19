@@ -9,8 +9,8 @@ Xây dựng nền tảng cơ bản cho hệ thống, bao gồm:
 * Thiết lập môi trường làm việc và Repository nhóm.
 * Xây dựng giao diện đăng nhập (Login) cho giảng viên.
 * Thiết kế cấu trúc dữ liệu lưu trữ thông tin sinh viên cơ bản (Họ tên, MSSV, Lớp).
-## Mục tiêu Sprint 2 (updating)
-## 👥 3. Danh sách thành viên & Vai trò
+## 2.1 Mục tiêu Sprint 2 (updating...)
+## 3. Danh sách thành viên & Vai trò
 | STT | Họ và Tên | Vai trò | Nhiệm vụ chính |
 | :--- | :--- | :--- | :--- |
 | 1 | **Huỳnh Tiến Mạnh** | Product Owner | Quản lý Backlog, ưu tiên tính năng. |
